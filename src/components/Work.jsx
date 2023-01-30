@@ -28,11 +28,15 @@ const Work = () => {
                             </span>
 
                             <div className='pt-8 text-center'>
-                                <a href="https://kaleidoscopic-speculoos-3e887b.netlify.app/">
+                                <a href="https://kaleidoscopic-speculoos-3e887b.netlify.app/"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
 
-                                <a href="https://github.com/luciaqu8/cripto_react">
+                                <a href="https://github.com/luciaqu8/cripto_react"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Código</button>
                                 </a>
                             </div>
@@ -51,11 +55,15 @@ const Work = () => {
                             </span>
 
                             <div className='pt-8 text-center'>
-                                <a href="https://inquisitive-semolina-af335d.netlify.app/">
+                                <a href="https://inquisitive-semolina-af335d.netlify.app/"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
 
-                                <a href="https://github.com/luciaqu8/cotizador-seguros">
+                                <a href="https://github.com/luciaqu8/cotizador-seguros"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Código</button>
                                 </a>
                             </div>
@@ -74,11 +82,15 @@ const Work = () => {
                             </span>
 
                             <div className='pt-8 text-center'>
-                                <a href="https://extraordinary-kelpie-07a93c.netlify.app/">
+                                <a href="https://extraordinary-kelpie-07a93c.netlify.app/"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
 
-                                <a href="https://github.com/luciaqu8/gastos_react">
+                                <a href="https://github.com/luciaqu8/gastos_react"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Código</button>
                                 </a>
                             </div>
@@ -97,11 +109,15 @@ const Work = () => {
                             </span>
 
                             <div className='pt-8 text-center'>
-                                <a href="https://friendly-sable-8a3742.netlify.app/">
+                                <a href="https://friendly-sable-8a3742.netlify.app/"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
 
-                                <a href="https://github.com/luciaqu8/citas_react">
+                                <a href="https://github.com/luciaqu8/citas_react"
+                                    target="_blank"
+                                    rel="noopener noreferrer" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Código</button>
                                 </a>
                             </div>
