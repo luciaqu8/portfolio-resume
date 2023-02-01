@@ -17,7 +17,7 @@ const SobreMi = () => {
                     <p>Mi nombre es Lucía y vivo en Buenos Aires, Argentina.</p>
                 </div>
                 <div>
-                    <p>Actualmente me especializo en el armado y diseño de páginas web, aplicaciones e interfaces. Me gusta poner en práctica mis conocimientos para seguir creciendo profesionalmente, por lo que estoy estudiando una ruta Full Stack. Estoy enfocada en la implementación y la evolución constante de las nuevas tecnologías y en poder resolver problemas aportando soluciones creativas y eficientes. Tengo experiencia con bases de datos relacionales y no relacionales, y también trabaje en puestos más artísticos como diseño gráfico, fotografía y manejo de redes sociales.</p>
+                    <p>Actualmente me especializo en el armado y diseño de páginas web, aplicaciones e interfaces. Me gusta poner en práctica mis conocimientos para seguir creciendo profesionalmente, por lo que estoy estudiando una ruta Full Stack. Estoy enfocada en la implementación y la evolución constante de las nuevas tecnologías y en poder resolver problemas aportando soluciones creativas y eficientes. Tengo experiencia con bases de datos relacionales y no relacionales, y también en puestos más artísticos como diseño gráfico, fotografía y manejo de redes sociales.</p>
                 </div>
             </div>
         </div>
